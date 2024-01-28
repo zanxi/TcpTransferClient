@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settingsmenu>
+  <menu name="Начало">
+    <submenu id="" name="Инфопанель"/>
+    <submenu id="" name="контрольный показатель"/>
+    <submenu id="" name="Активные стада"/>
+    <submenu id="" name="Выход из системы"/>    
+
+  </menu>
+  <menu name="Ввод данных">
+    <submenu id="" name="Дневная запись"/>
+    <submenu id="" name="Группы"/>
+    <submenu id="" name="Библиотеки"/>
+    <submenu id="" name="Настройки"/>
+  </menu>
+  <menu name="Анализ/доклады">
+    <submenu id="" name="Инфопанель"/>
+    <submenu id="" name="Доклады"/>
+    <submenu id="" name="X-Link"/>
+    <submenu id="" name="Показания устройства"/>
+  </menu>
+  <menu name="Конфигурация">
+    <submenu id="" name="Глобальные установки фермы"/>
+    <submenu id="" name="Устройства"/>
+    <submenu id="" name="Настройки экспорта(переноса)"/>
+    <submenu id="" name="Встраиваемые модули"/>
+  </menu>
+<menu name="Обслуживание">
+    <submenu id="" name="Резервное копирование и восстановление"/>
+    <submenu id="" name="Проверка обновлений"/>
+    <submenu id="" name="Информация о лицензии"/>
+  </menu>  
+  <menu name="Электронное обучение">
+    <submenu id="" name="Обучение онлайн"/>
+    <submenu id="" name="Академия онлайн"/>
+  </menu>
+  <menu name="Поиск">
+    <submenu id="" name="Введите строку поиска"/>
+  </menu>
+</settingsmenu>

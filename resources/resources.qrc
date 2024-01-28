@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="close">close.png</file>
+        <file alias="closeHover">close_hover.png</file>
+        <file alias="closePress">close_pressed.png</file>
+        <file alias="min">min.png</file>
+        <file alias="minHover">min_hover.png</file>
+        <file alias="minPress">min_pressed.png</file>
+        <file alias="logo">app.ico</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>1.png</file>
+        <file>vim_logo.png</file>
+        <file>write.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file alias="app">app.qss</file>
+    </qresource>
+    <qresource prefix="/menu">
+        <file>menu.xml</file>
+        <file>icon.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>db-lely3.db</file>
+        <file>db.xml</file>
+    </qresource>
+    <qresource prefix="/menu_icons"/>
+</RCC>

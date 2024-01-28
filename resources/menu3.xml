@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settingsmenu>
+  <menu name="Начало">
+    <submenu id="" name="Инфопанель"/>
+  </menu>
+  <menu name="Ввод данных">
+  </menu>
+  <menu name="Анализ/доклады">
+  </menu>
+  <menu name="Экспорт данных">
+    <submenu id="" name="Word/Excel"/>
+  </menu>
+  <menu name="Конфигурация">
+    <submenu id="" name="Глобальные установки фермы"/>
+  </menu>
+  <menu name="Обслуживание">
+  </menu>  
+  <menu name="Электронное обучение">
+  </menu>
+  <menu name="Поиск">
+    <submenu id="" name="Введите строку поиска"/>
+  </menu>
+</settingsmenu>
